@@ -1,13 +1,4 @@
 using System;
-
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
-using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 
